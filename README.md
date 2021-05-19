@@ -2,6 +2,10 @@
 
 This is an opinionated definition of Sprints to pick up the fundamentals of version control with GitHub and Visual Studio Code.
 
+The journey continues with Next Steps towards getting code from development to cloud.
+
+This is a self-service, hands-on, learning checklist that gets anyone interested from zero knowledge on GitHub to being able to setup automatic continuous deployment to Azure.
+
 ## Sprints
 
 ### Sprint 1: Version control and Github
@@ -46,11 +50,11 @@ REPLACE WITH KEYBOARD SHORTCUT
 
 - [ ] Do: [Commit and push this back to your forked repository.](https://code.visualstudio.com/docs/editor/versioncontrol#_commit)
 
-## Optional and additional resources
-* [GitHub Learning Lab](https://lab.github.com/)
-* [GitHub Training & Guides](https://www.youtube.com/githubguides)
-
 ## Next steps for DevOps
 
 * [GitHub Actions](https://lab.github.com/githubtraining/github-actions:-hello-world)
 * [Continuous Delivery to Azure](https://lab.github.com/githubtraining/github-actions:-continuous-delivery-with-azure)
+
+## Optional and additional resources
+* [GitHub Learning Lab](https://lab.github.com/)
+* [GitHub Training & Guides](https://www.youtube.com/githubguides)
