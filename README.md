@@ -29,7 +29,7 @@ This is an opinionated definition of Sprints to pick up the fundamentals of vers
 ```
 $ git remote add upstream https://github.com/vitoc/gitstarted.git
 ```
-- [ ] From the command line, check for updates from upstream:
+- [ ] Do: From the command line, check for updates from upstream:
 ```
 $ git pull upstream master
 ```
