@@ -1,4 +1,4 @@
-# Sprint-based Technical Onboarding
+# Git Started (With Git!)
 
 This is an opinionated definition of Sprints to pick up the fundamentals of version control with GitHub and Visual Studio Code.
 
